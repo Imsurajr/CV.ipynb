@@ -8,7 +8,7 @@ Image Flip: The code allows you to horizontally and vertically flip images. This
 Contrast Enhancement: The code provides a method to enhance the contrast of an image. This can make the image appear more vibrant and visually appealing.
 
 # Requirements
-Python 3, 
+Python 3
 Jupyter notebook
 # Usage
 Open the Jupyter notebook file in your preferred Python environment.
