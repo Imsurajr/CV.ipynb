@@ -21,5 +21,3 @@ enhance_contrast(image): Enhances the contrast of the image.
 Save or display the modified image.
 python
 
-# License
-This code is provided under the MIT License, allowing you to use, modify, and distribute it freely.
