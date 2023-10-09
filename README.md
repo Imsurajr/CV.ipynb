@@ -1,5 +1,5 @@
 # OpenCV
-Image Flip and Contrast Enhancement:
+Image Flipping and Contrast Enhancement:
 This Python code provides functions to flip images horizontally and vertically, as well as enhance the contrast of an image, and making channels onto images It was developed using Jupyter notebook in Google Colab.
 
 # Features
